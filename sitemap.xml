@@ -14,6 +14,7 @@
   <url><loc>https://sono.click/legal/terms/</loc></url>
   <url><loc>https://sono.click/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/blog/</loc></url>
   <url><loc>https://sono.click/de/</loc></url>
   <url><loc>https://sono.click/de/library/</loc></url>
   <url><loc>https://sono.click/de/guide/getting-started/</loc></url>
@@ -28,6 +29,7 @@
   <url><loc>https://sono.click/de/legal/terms/</loc></url>
   <url><loc>https://sono.click/de/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/de/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/de/blog/</loc></url>
   <url><loc>https://sono.click/it/</loc></url>
   <url><loc>https://sono.click/it/library/</loc></url>
   <url><loc>https://sono.click/it/guide/getting-started/</loc></url>
@@ -42,6 +44,7 @@
   <url><loc>https://sono.click/it/legal/terms/</loc></url>
   <url><loc>https://sono.click/it/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/it/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/it/blog/</loc></url>
   <url><loc>https://sono.click/fr/</loc></url>
   <url><loc>https://sono.click/fr/library/</loc></url>
   <url><loc>https://sono.click/fr/guide/getting-started/</loc></url>
@@ -56,6 +59,7 @@
   <url><loc>https://sono.click/fr/legal/terms/</loc></url>
   <url><loc>https://sono.click/fr/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/fr/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/fr/blog/</loc></url>
   <url><loc>https://sono.click/es/</loc></url>
   <url><loc>https://sono.click/es/library/</loc></url>
   <url><loc>https://sono.click/es/guide/getting-started/</loc></url>
@@ -70,6 +74,7 @@
   <url><loc>https://sono.click/es/legal/terms/</loc></url>
   <url><loc>https://sono.click/es/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/es/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/es/blog/</loc></url>
   <url><loc>https://sono.click/hr/</loc></url>
   <url><loc>https://sono.click/hr/library/</loc></url>
   <url><loc>https://sono.click/hr/guide/getting-started/</loc></url>
@@ -84,6 +89,7 @@
   <url><loc>https://sono.click/hr/legal/terms/</loc></url>
   <url><loc>https://sono.click/hr/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/hr/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/hr/blog/</loc></url>
   <url><loc>https://sono.click/cs/</loc></url>
   <url><loc>https://sono.click/cs/library/</loc></url>
   <url><loc>https://sono.click/cs/guide/getting-started/</loc></url>
@@ -98,6 +104,7 @@
   <url><loc>https://sono.click/cs/legal/terms/</loc></url>
   <url><loc>https://sono.click/cs/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/cs/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/cs/blog/</loc></url>
   <url><loc>https://sono.click/pl/</loc></url>
   <url><loc>https://sono.click/pl/library/</loc></url>
   <url><loc>https://sono.click/pl/guide/getting-started/</loc></url>
@@ -112,6 +119,7 @@
   <url><loc>https://sono.click/pl/legal/terms/</loc></url>
   <url><loc>https://sono.click/pl/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/pl/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/pl/blog/</loc></url>
   <url><loc>https://sono.click/fi/</loc></url>
   <url><loc>https://sono.click/fi/library/</loc></url>
   <url><loc>https://sono.click/fi/guide/getting-started/</loc></url>
@@ -126,6 +134,7 @@
   <url><loc>https://sono.click/fi/legal/terms/</loc></url>
   <url><loc>https://sono.click/fi/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/fi/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/fi/blog/</loc></url>
   <url><loc>https://sono.click/sk/</loc></url>
   <url><loc>https://sono.click/sk/library/</loc></url>
   <url><loc>https://sono.click/sk/guide/getting-started/</loc></url>
@@ -140,6 +149,7 @@
   <url><loc>https://sono.click/sk/legal/terms/</loc></url>
   <url><loc>https://sono.click/sk/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/sk/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/sk/blog/</loc></url>
   <url><loc>https://sono.click/da/</loc></url>
   <url><loc>https://sono.click/da/library/</loc></url>
   <url><loc>https://sono.click/da/guide/getting-started/</loc></url>
@@ -154,4 +164,13 @@
   <url><loc>https://sono.click/da/legal/terms/</loc></url>
   <url><loc>https://sono.click/da/legal/cookie-policy/</loc></url>
   <url><loc>https://sono.click/da/legal/accessibility-statement/</loc></url>
+  <url><loc>https://sono.click/da/blog/</loc></url>
+  <url><loc>https://sono.click/blog/everyday-routines/</loc></url>
+  <url><loc>https://sono.click/hr/blog/everyday-routines/</loc></url>
+  <url><loc>https://sono.click/blog/honest-project-overview/</loc></url>
+  <url><loc>https://sono.click/hr/blog/honest-project-overview/</loc></url>
+  <url><loc>https://sono.click/blog/modelling-at-home/</loc></url>
+  <url><loc>https://sono.click/hr/blog/modelling-at-home/</loc></url>
+  <url><loc>https://sono.click/blog/what-is-aac/</loc></url>
+  <url><loc>https://sono.click/hr/blog/what-is-aac/</loc></url>
 </urlset>

@@ -1,0 +1,358 @@
+{
+  "language": "cs",
+  "updated": "2026-11-15",
+  "posts": [
+    {
+      "slug": "paper-first",
+      "title": "Nejdřív papír: tabule bez baterie, která jde všude",
+      "description": "Vytištěná tabule je okamžitá, odolná a snadno přizpůsobitelná. Jak vytvořit papírovou kopii, která odpovídá aplikaci a udrží komunikaci dostupnou, když technika nemůže.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/paper-first/"
+    },
+    {
+      "slug": "choosing-a-voice",
+      "title": "Najít hlas, který sedí: přízvuk, věk a osobnost",
+      "description": "Hlas, který komunikační aplikace používá, je součástí něčí identity. Jak vybrat, otestovat a přizpůsobit hlas, aniž byste skončili u špatného výchozího.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/choosing-a-voice/"
+    },
+    {
+      "slug": "photos-or-symbols",
+      "title": "Fotografie, nebo symboly? Vyberte, co člověk skutečně rozpozná",
+      "description": "Jasná fotografie může fungovat lépe než úhledná ikona, nebo naopak. Jak vybírat obrázky podle rozpoznání, ne podle úhlednosti, a udržet tabuli konzistentní.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/photos-or-symbols/"
+    },
+    {
+      "slug": "total-communication",
+      "title": "Znaky, gesta a symboly: přístup totální komunikace",
+      "description": "AAK není jedno zařízení ani jedna metoda. Řeč, znaky, gesta, ukazování a symboly mohou spolupracovat a přijetí každé cesty komunikaci usnadňuje.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/total-communication/"
+    },
+    {
+      "slug": "modelling-vs-prompting",
+      "title": "Modelování versus nápověda: jak pomáhat, aniž byste převzali kontrolu",
+      "description": "Modelování ukazuje, jak tabule funguje. Nápověda žádá, aby člověk něco předvedl. Rozdíl je důležitý a několik malých návyků zabrání tomu, aby se z pomoci stala zkouška.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/modelling-vs-prompting/"
+    },
+    {
+      "slug": "transitions-and-change",
+      "title": "Přechody: jak s AAK udělat změnu zvládnutelnou",
+      "description": "Ukončit oblíbenou činnost nebo jít na nové místo bývá nejtěžší část dne. Symboly, varování a volby mohou přechody usnadnit.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/transitions-and-change/"
+    },
+    {
+      "slug": "birthdays-and-celebrations",
+      "title": "Narozeniny a oslavy: AAK v hlučných a veselých chvílích",
+      "description": "Oslavy jsou rušné, hlučné a plné příbuzných. Trocha plánování pomůže člověku s AAK zapojit se, aby mu ostatní rozuměli, a odejít, když je toho moc.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/birthdays-and-celebrations/"
+    },
+    {
+      "slug": "travel-with-aac",
+      "title": "Cestování a dovolená: AAK v letadlech, vlacích a neznámých místech",
+      "description": "Komunikační systém může cestovat, ale potřebuje trochu plánování. Co zabalit, co připravit a jak udržet hlas dostupný daleko od domova.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/travel-with-aac/"
+    },
+    {
+      "slug": "aac-and-literacy",
+      "title": "Čtení, psaní a AAK: symboly nejsou nepřítelem gramotnosti",
+      "description": "Komunikační tabule a láska ke čtení mohou růst společně. Praktické způsoby, jak zapojit písmena, zvuky a psaní, aniž byste z každé chvíle dělali vyučování.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-and-literacy/"
+    },
+    {
+      "slug": "pain-and-illness",
+      "title": "Bolest a nemoc: jak pomoci člověku popsat, co ho bolí",
+      "description": "Když někdo nedokáže snadno říct, kde ho bolí, chování je jen část obrazu. Jak připravit slova pro bolest, ptát se jasně a zastat se v ordinaci.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/pain-and-illness/"
+    },
+    {
+      "slug": "calm-down-plans",
+      "title": "Plány na zklidnění: AAK pro chvíle po zhroucení",
+      "description": "Když je člověk zahlcený, víc slov obvykle všechno ztíží. Jak naplánovat rutinu zklidnění, udržet komunikaci dostupnou a později se znovu spojit.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/calm-down-plans/"
+    },
+    {
+      "slug": "friendships-and-playdates",
+      "title": "Přátelství a hraní: AAK s dětmi mimo rodinu",
+      "description": "Kamarádům obvykle stačí krátké vysvětlení a rychle se přizpůsobí. Jednoduché přípravy pomohou dítěti s AAK zapojit se, aby mu ostatní rozuměli, a zůstat pánem svého hlasu.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/friendships-and-playdates/"
+    },
+    {
+      "slug": "teasing-and-self-advocacy",
+      "title": "Posměch, šikana a sebeobhajoba: slova, která pomáhají ve škole",
+      "description": "Komunikační zařízení může přitahovat nechtěnou pozornost. Jak připravit jasná slova, zapojit školu a podpořit dítě nebo dospívajícího, aby se umělo obhájit.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/cs/blog/teasing-and-self-advocacy/"
+    },
+    {
+      "slug": "teenagers-and-aac",
+      "title": "Dospívající a AAK: soukromí, nezávislost a vlastní hlas",
+      "description": "Dospívání mění všechno, i komunikaci. Jak zapojit dospívajícího do volby slovní zásoby, hlasu a hranic, aniž byste mu stáli za zády.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/teenagers-and-aac/"
+    },
+    {
+      "slug": "dating-and-relationships",
+      "title": "Randění a vztahy s AAK: láska, souhlas a hranice",
+      "description": "Dospívající i dospělí, kteří používají AAK, mají stejné právo na vztahy jako kdokoli jiný. Jak udělat místo pro randění, soukromí a jasný souhlas.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/dating-and-relationships/"
+    },
+    {
+      "slug": "aac-at-work",
+      "title": "AAK v práci: porady, pohovory a každodenní kolegové",
+      "description": "Komunikační systém patří i na pracoviště. Praktické způsoby, jak se připravit na porady, požádat o úpravy a udržet si profesionální hlas.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-at-work/"
+    },
+    {
+      "slug": "co-designing-the-board",
+      "title": "Postavte ji spolu: tabuli navrhujte s člověkem, který ji používá",
+      "description": "Tabule funguje lépe, když má člověk slovo při jejím navrhování. Praktické způsoby, jak zapojit děti, dospívající i dospělé do výběru slov, obrázků a rozložení.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/co-designing-the-board/"
+    },
+    {
+      "slug": "when-the-device-is-not-used",
+      "title": "Když se zařízení nepoužívá: kontrolní seznam pro hledání příčin",
+      "description": "Komunikační aplikace, která leží ladem, není neúspěšný experiment. Než změníte celý systém, projděte přístup, motivaci, slovní zásobu a návyky partnerů.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/when-the-device-is-not-used/"
+    },
+    {
+      "slug": "device-care",
+      "title": "Nabíjení, čištění a zálohy: jak pečovat o komunikační zařízení",
+      "description": "Několik jednoduchých návyků udrží zařízení funkční, ochrání vlastní slova a fotografie a zabrání panice z vybité baterie ve špatnou chvíli.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/device-care/"
+    },
+    {
+      "slug": "waiting-for-support",
+      "title": "Čekáte na vyšetření nebo financování: co můžete dělat mezitím",
+      "description": "Čekací seznamy mohou být dlouhé a začátek s AAK by neměl záviset na dokonalém plánu. Praktické kroky, které můžete udělat, než přijde odborná nebo finanční podpora.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/waiting-for-support/"
+    },
+    {
+      "slug": "the-ten-second-pause",
+      "title": "Desetisekundová pauza: komunikační dovednost, kterou většina z nás vynechává",
+      "description": "Čekání je nepříjemné, ale tichá pauza často udělá pro komunikaci víc než další otázka. Co vyzkoušet a jak to souvisí s modelováním.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/the-ten-second-pause/"
+    },
+    {
+      "slug": "aac-at-school",
+      "title": "Nástup do školy s AAK: předání, které opravdu pomůže",
+      "description": "Jednostránkový profil, krátká ukázka a několik domluvených slov mohou rozhodnout, zda se zařízení bude ve škole používat, nebo zůstane v tašce.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-at-school/"
+    },
+    {
+      "slug": "aac-consent-and-control",
+      "title": "Ne, stop, pomoc: jak učit člověka kontrole a souhlasu s AAK",
+      "description": "Komunikační systém není jen na žádosti. Slova, která člověku umožní odmítnout, změnit názor a požádat o pomoc, jsou stejně důležitá.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-consent-and-control/"
+    },
+    {
+      "slug": "aac-beyond-requests",
+      "title": "Víc než „více“: komentáře, pocity a vtipy s AAK",
+      "description": "Žádat je jen jeden z důvodů komunikovat. Komentáře, pocity, protesty a bláznivé chvíle jsou to, co dělá hlas lidským.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-beyond-requests/"
+    },
+    {
+      "slug": "core-words",
+      "title": "Malá slova, velký rozdíl: proč záleží na jádrových slovech",
+      "description": "Slova jako já, chtít, stop, jít a pomoc udělají víc práce než stovka podstatných jmen. Jak vybírat a modelovat jádrovou slovní zásobu, aniž byste z toho dělali vyučování.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/core-words/"
+    },
+    {
+      "slug": "keep-aac-within-reach",
+      "title": "Mějte ho na dosah: přístup je součást komunikace",
+      "description": "Komunikační zařízení funguje jen tehdy, když je po ruce. Praktické způsoby, jak ho udržet nabité, blízko a dostupné, aniž by se z něj stala odměna.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/keep-aac-within-reach/"
+    },
+    {
+      "slug": "when-taps-seem-random",
+      "title": "Když každé klepnutí působí náhodně: nejdřív reagujte, opravujte až potom",
+      "description": "Zkoumání symbolové tabule může vypadat jako chaos. Co klepání může znamenat a jak reagovat, aniž byste z komunikace udělali zkoušku.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/when-taps-seem-random/"
+    },
+    {
+      "slug": "siblings-and-aac",
+      "title": "Sourozenci a AAK: aby měl každý svůj hlas",
+      "description": "Bratři a sestry bývají nejlepší komunikační partneři a někdy ti, na které se zapomíná nejvíc. Jak je zapojit, aniž by se z nich stali pečovatelé.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/siblings-and-aac/"
+    },
+    {
+      "slug": "explaining-aac-to-family",
+      "title": "Jak vysvětlit AAK prarodičům a příbuzným bez přednášky",
+      "description": "Jedna věta vysvětlení, tři slova k modelování a svolení udělat chybu mohou z dobře míněného příbuzného udělat sebejistého komunikačního partnera.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/explaining-aac-to-family/"
+    },
+    {
+      "slug": "aac-through-play",
+      "title": "Hra, pauza a jemná sabotáž: modelování bez tlaku",
+      "description": "Hry vytvářejí důvody komunikovat bez pracovního listu. Jak využít hry s lidmi, čekání a jemnou sabotáž, aby symboly působily užitečně.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-through-play/"
+    },
+    {
+      "slug": "aac-at-mealtimes",
+      "title": "Jídlo: nejjednodušší místo, kde začít s AAK",
+      "description": "Jídlo přináší volby, opakování a přirozený důvod komunikovat. Jak využít snídani, svačiny a večeři, aniž byste ze stolu dělali vyučování.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-at-mealtimes/"
+    },
+    {
+      "slug": "aac-books-and-songs",
+      "title": "Knihy, písničky a opakování: slova přes oblíbené věci",
+      "description": "Známý příběh nebo písnička přinášejí stejná slova znovu a znovu. Jednoduché způsoby, jak modelovat symboly při čtení a hudbě, aniž byste z toho dělali zkoušku.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-books-and-songs/"
+    },
+    {
+      "slug": "aac-out-and-about",
+      "title": "Venku: parky, obchody a návštěvy lékařů s AAK",
+      "description": "Trocha plánování usnadní komunikaci mimo domov, od hřiště po ordinaci. Co s sebou, co modelovat a na co se připravit.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-out-and-about/"
+    },
+    {
+      "slug": "choosing-vocabulary",
+      "title": "Výběr slov, která zní jako ten člověk",
+      "description": "Tabule má odpovídat skutečnému životu, ne obecnému seznamu. Jak vybírat slovní zásobu podle zájmů, věku, kultury a slov, která člověk opravdu potřebuje.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/choosing-vocabulary/"
+    },
+    {
+      "slug": "when-progress-feels-slow",
+      "title": "Když se pokrok zdá pomalý: čeho si všímat kromě slov",
+      "description": "Pokrok v AAK bývá tichý. Jaké znaky hledat, jak si vést jednoduché poznámky a kdy požádat o přezkoumání, místo abyste obviňovali sebe.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/when-progress-feels-slow/"
+    },
+    {
+      "slug": "working-with-a-speech-therapist",
+      "title": "Spolupráce s logopedem na AAK",
+      "description": "Co si přinést, na co se ptát a jak udělat z návštěv užitečné chvíle, když doma zavádíte komunikační systém.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/working-with-a-speech-therapist/"
+    },
+    {
+      "slug": "aac-in-multilingual-families",
+      "title": "AAK ve vícejazyčných rodinách: domácí jazyk mějte nablízku",
+      "description": "Komunikační tabule by neměla rodinu zploštit do jednoho jazyka. Jak udělat místo pro domácí jazyk, jména, jídlo a slova, která voní domovem.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-in-multilingual-families/"
+    },
+    {
+      "slug": "aac-for-adults",
+      "title": "AAK není jen pro děti: dospělí po mrtvici a s měnícími se potřebami",
+      "description": "AAK používají i dospělí, někdy po mrtvici, úrazu nebo při progresivním onemocnění. Záleží na respektu, únavě a hlasu, který sedí dospělému životu.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-for-adults/"
+    },
+    {
+      "slug": "aac-privacy-and-dignity",
+      "title": "Soukromí a důstojnost: AAK při osobní péči a na veřejnosti",
+      "description": "Komunikační zařízení uchovává soukromá slova, fotografie a zprávy. Jak chránit důstojnost, ptát se před sdílením a nechat člověka v kontrole.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-privacy-and-dignity/"
+    },
+    {
+      "slug": "aac-emergency-communication",
+      "title": "Nouzová komunikace: plánujte i mimo aplikaci",
+      "description": "Komunikační aplikace může selhat, vybít se nebo být daleko. Jednoduchý záložní plán pomůže člověku požádat o pomoc, když jde o nejvíc.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/aac-emergency-communication/"
+    },
+    {
+      "slug": "everyday-routines",
+      "title": "Každodenní rutiny: malé chvíle pro komunikaci",
+      "description": "Jídlo, oblékání, hra a usínání přinášejí stejná slova znovu a znovu. Nápady, jak tyto chvíle využít se symbolovou tabulí.",
+      "date": "2026-11-08",
+      "minutes": 3,
+      "url": "https://sono.click/cs/blog/everyday-routines/"
+    },
+    {
+      "slug": "modelling-at-home",
+      "title": "Modelování: ukazovat, ne zkoušet",
+      "description": "Jak rodiny samy používají symbolovou tabuli svého dítěte, zatímco mluví, a jednoduché způsoby, jak to vměstnat do běžného dne.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/cs/blog/modelling-at-home/"
+    },
+    {
+      "slug": "what-is-aac",
+      "title": "Co je augmentativní a alternativní komunikace (AAK)? Srozumitelný úvod pro rodiče",
+      "description": "Co augmentativní a alternativní komunikace znamená, jaké má podoby a jaké obavy rodiče nejčastěji vyslovují.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/cs/blog/what-is-aac/"
+    },
+    {
+      "slug": "honest-project-overview",
+      "title": "Sono, upřímně: kde projekt stojí",
+      "description": "Co Sono je, co už dnes funguje, co zatím ne a jak můžete pomoci jako dobrovolník.",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "url": "https://sono.click/cs/blog/honest-project-overview/"
+    }
+  ]
+}

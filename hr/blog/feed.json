@@ -1,0 +1,358 @@
+{
+  "language": "hr",
+  "updated": "2026-11-15",
+  "posts": [
+    {
+      "slug": "paper-first",
+      "title": "Prvo papir: ploča bez baterije koja ide svugdje",
+      "description": "Ispisana ploča trenutačna je, izdržljiva i lako se prilagođava. Kako izraditi papirnatu kopiju koja odgovara aplikaciji i održava komunikaciju dostupnom kad tehnologija ne može.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/hr/blog/paper-first/"
+    },
+    {
+      "slug": "choosing-a-voice",
+      "title": "Pronađite glas koji pristaje: naglasak, dob i osobnost",
+      "description": "Glas koji aplikacija za komunikaciju koristi dio je nečijeg identiteta. Kako odabrati, isprobati i prilagoditi glas, a da ne ostanete pri zadanom koji ne odgovara.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/choosing-a-voice/"
+    },
+    {
+      "slug": "photos-or-symbols",
+      "title": "Fotografije ili simboli? Odaberite ono što osoba doista prepoznaje",
+      "description": "Jasna fotografija može raditi bolje od uredne ikone, ili obrnuto. Kako birati slike prema prepoznavanju, a ne urednosti, i održati ploču dosljednom.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/photos-or-symbols/"
+    },
+    {
+      "slug": "total-communication",
+      "title": "Znakovi, geste i simboli: pristup potpunoj komunikaciji",
+      "description": "Potpomognuta komunikacija nije jedan uređaj ni jedna metoda. Govor, znakovi, geste, pokazivanje i simboli mogu raditi zajedno, a prihvaćanje svakog puta olakšava komunikaciju.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/total-communication/"
+    },
+    {
+      "slug": "modelling-vs-prompting",
+      "title": "Modeliranje i navođenje: kako pomoći, a ne preuzeti kontrolu",
+      "description": "Modeliranje pokazuje osobi kako ploča radi. Navođenje od nje traži da nešto izvede. Razlika je važna, a nekoliko malih navika sprječava da pomoć postane ispit.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/modelling-vs-prompting/"
+    },
+    {
+      "slug": "transitions-and-change",
+      "title": "Prijelazi: kako uz potpomognutu komunikaciju promjena može biti podnošljiva",
+      "description": "Prekid omiljene aktivnosti ili odlazak na novo mjesto mogu biti najteži dio dana. Simboli, najave i izbori mogu olakšati prijelaze.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/transitions-and-change/"
+    },
+    {
+      "slug": "birthdays-and-celebrations",
+      "title": "Rođendani i proslave: potpomognuta komunikacija u glasnim, sretnim trenucima",
+      "description": "Proslave su pune ljudi, buke i rodbine. Malo planiranja pomaže osobi koja koristi potpomognutu komunikaciju da sudjeluje, bude shvaćena i izađe kad postane previše.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/birthdays-and-celebrations/"
+    },
+    {
+      "slug": "travel-with-aac",
+      "title": "Putovanja i odmori: potpomognuta komunikacija u zrakoplovima, vlakovima i nepoznatim mjestima",
+      "description": "Komunikacijski sustav može putovati, ali treba malo planiranja. Što spakirati, što pripremiti i kako daleko od kuće održati glas dostupnim.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/travel-with-aac/"
+    },
+    {
+      "slug": "aac-and-literacy",
+      "title": "Čitanje, pisanje i potpomognuta komunikacija: simboli nisu neprijatelj pismenosti",
+      "description": "Ploča sa simbolima i ljubav prema čitanju mogu rasti zajedno. Kako uključiti slova, glasove i pisanje, a da svaki trenutak ne postane lekcija.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-and-literacy/"
+    },
+    {
+      "slug": "pain-and-illness",
+      "title": "Bol i bolest: kako pomoći osobi da opiše što boli",
+      "description": "Kad netko ne može lako reći gdje ga boli, ponašanje je samo dio slike. Kako pripremiti riječi za bol, pitati jasno i zauzeti se tijekom pregleda.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/pain-and-illness/"
+    },
+    {
+      "slug": "calm-down-plans",
+      "title": "Planovi smirivanja: potpomognuta komunikacija za trenutke nakon sloma",
+      "description": "Kad je osoba preopterećena, više riječi obično otežava situaciju. Kako isplanirati rutinu smirivanja, zadržati komunikaciju dostupnom i poslije obnoviti vezu.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/calm-down-plans/"
+    },
+    {
+      "slug": "friendships-and-playdates",
+      "title": "Prijateljstva i druženja: potpomognuta komunikacija s djecom izvan obitelji",
+      "description": "Prijatelji se obično brzo prilagode kad znaju što učiniti. Jednostavne pripreme pomažu djetetu koje koristi potpomognutu komunikaciju da se uključi, bude razumljeno i zadrži nadzor nad svojim glasom.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/friendships-and-playdates/"
+    },
+    {
+      "slug": "teasing-and-self-advocacy",
+      "title": "Zadirkivanje, vršnjačko nasilje i samozastupanje: riječi koje pomažu u školi",
+      "description": "Komunikacijski uređaj može privući neželjenu pažnju. Kako pripremiti jasne riječi, uključiti školu i podržati dijete ili tinejdžera da se zauzme za sebe.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/hr/blog/teasing-and-self-advocacy/"
+    },
+    {
+      "slug": "teenagers-and-aac",
+      "title": "Tinejdžeri i potpomognuta komunikacija: privatnost, samostalnost i vlastiti glas",
+      "description": "Adolescencija mijenja sve, pa i komunikaciju. Kako uključiti tinejdžera u odabir rječnika, glasa i granica, bez stalnog nadzora.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/teenagers-and-aac/"
+    },
+    {
+      "slug": "dating-and-relationships",
+      "title": "Izlasci i veze uz potpomognutu komunikaciju: ljubav, pristanak i granice",
+      "description": "Odrasli i tinejdžeri koji koriste potpomognutu komunikaciju imaju isto pravo na veze kao i svi drugi. Kako napraviti mjesta za izlaske, privatnost i jasan pristanak.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/dating-and-relationships/"
+    },
+    {
+      "slug": "aac-at-work",
+      "title": "Potpomognuta komunikacija na poslu: sastanci, razgovori za posao i svakodnevne kolege",
+      "description": "Komunikacijski sustav pripada i radnom mjestu. Kako se pripremiti za sastanke, zatražiti prilagodbe i zadržati profesionalan glas.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-at-work/"
+    },
+    {
+      "slug": "co-designing-the-board",
+      "title": "Gradite zajedno: kako ploču osmisliti s osobom koja je koristi",
+      "description": "Ploča radi bolje kad osoba ima riječ u njezinu oblikovanju. Kako uključiti djecu, tinejdžere i odrasle u odabir riječi, slika i rasporeda.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/co-designing-the-board/"
+    },
+    {
+      "slug": "when-the-device-is-not-used",
+      "title": "Kad se uređaj ne koristi: lista za provjeru i rješavanje problema",
+      "description": "Komunikacijska aplikacija koja stoji neiskorištena nije propali pokus. Prođite kroz pristup, motivaciju, rječnik i navike partnera prije nego promijenite cijeli sustav.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/hr/blog/when-the-device-is-not-used/"
+    },
+    {
+      "slug": "device-care",
+      "title": "Punjenje, čišćenje i sigurnosne kopije: kako brinuti o komunikacijskom uređaju",
+      "description": "Nekoliko jednostavnih navika održava uređaj u radu, čuva vlastite riječi i fotografije i sprječava paniku zbog prazne baterije u pogrešnom trenutku.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/device-care/"
+    },
+    {
+      "slug": "waiting-for-support",
+      "title": "Čekanje na procjenu ili financiranje: što možete učiniti u međuvremenu",
+      "description": "Liste čekanja mogu biti duge, a početak potpomognute komunikacije ne bi smio ovisiti o savršenom planu. Praktični koraci dok čekate stručnu ili financijsku podršku.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/waiting-for-support/"
+    },
+    {
+      "slug": "the-ten-second-pause",
+      "title": "Stanka od deset sekundi: komunikacijska vještina koju većina nas preskoči",
+      "description": "Čekanje je neugodno, ali tiha stanka često čini više za komunikaciju od još jednog pitanja. Što isprobati i kako se to uklapa u modeliranje.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/the-ten-second-pause/"
+    },
+    {
+      "slug": "aac-at-school",
+      "title": "Polazak u školu s potpomognutom komunikacijom: predaja koja doista pomaže",
+      "description": "Profil na jednoj stranici, kratka demonstracija i nekoliko dogovorenih riječi mogu odrediti hoće li se uređaj u školi koristiti ili ostati u torbi.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-at-school/"
+    },
+    {
+      "slug": "aac-consent-and-control",
+      "title": "Ne, stani, pomozi: kako potpomognuta komunikacija uči kontroli i pristanku",
+      "description": "Komunikacijski sustav nije samo za traženje. Riječi koje osobi omogućuju da odbije, promijeni mišljenje i zatraži pomoć jednako su važne.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-consent-and-control/"
+    },
+    {
+      "slug": "aac-beyond-requests",
+      "title": "Više od „još“: komentari, osjećaji i šale uz potpomognutu komunikaciju",
+      "description": "Traženje je samo jedan razlog za komunikaciju. Komentari, osjećaji, prosvjedovanja i šašavi trenuci ono su što glas čine ljudskim.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-beyond-requests/"
+    },
+    {
+      "slug": "core-words",
+      "title": "Male riječi, velika razlika: zašto su osnovne riječi važne",
+      "description": "Riječi poput JA, HTJETI, STANI, IĆI i POMOZI rade više od stotinu imenica. Kako odabrati i modelirati osnovne riječi, a da to ne postane lekcija.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/core-words/"
+    },
+    {
+      "slug": "keep-aac-within-reach",
+      "title": "Neka bude nadohvat ruke: pristup je dio komunikacije",
+      "description": "Komunikacijski uređaj radi samo kad je tu. Praktični načini da bude napunjen, blizu i dostupan, a da ne postane nagrada.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/keep-aac-within-reach/"
+    },
+    {
+      "slug": "when-taps-seem-random",
+      "title": "Kad se svaki dodir čini nasumičnim: prvo odgovorite, kasnije ispravljajte",
+      "description": "Istraživanje ploče sa simbolima može izgledati kao kaos. Što dodiri mogu značiti i kako odgovoriti, a ne pretvoriti komunikaciju u ispit.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/when-taps-seem-random/"
+    },
+    {
+      "slug": "siblings-and-aac",
+      "title": "Braća i sestre i potpomognuta komunikacija: mjesta za svačiji glas",
+      "description": "Braća i sestre često su najbolji komunikacijski partneri, a ponekad i najviše zanemareni. Kako ih uključiti, a ne učiniti ih skrbnicima.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/siblings-and-aac/"
+    },
+    {
+      "slug": "explaining-aac-to-family",
+      "title": "Kako objasniti potpomognutu komunikaciju bakama, djedovima i rodbini bez predavanja",
+      "description": "Objašnjenje u jednoj rečenici, tri riječi za modeliranje i dopuštenje da se pogriješi mogu od dobrohotnog rođaka stvoriti sigurnog komunikacijskog partnera.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/explaining-aac-to-family/"
+    },
+    {
+      "slug": "aac-through-play",
+      "title": "Igra, stanka i sabotaža: kako modelirati bez pritiska",
+      "description": "Igre stvaraju razloge za komunikaciju bez radnih listova. Kako iskoristiti igre s ljudima, čekanje i nježnu sabotažu da simboli postanu korisni.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-through-play/"
+    },
+    {
+      "slug": "aac-at-mealtimes",
+      "title": "Obroci: najlakše mjesto za početak s potpomognutom komunikacijom",
+      "description": "Hrana donosi izbore, ponavljanje i prirodan razlog za komunikaciju. Kako iskoristiti doručak, užinu i večeru, a da stol ne postane učionica.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-at-mealtimes/"
+    },
+    {
+      "slug": "aac-books-and-songs",
+      "title": "Knjige, pjesme i ponavljanje: riječi koje rastu iz omiljenih priča",
+      "description": "Poznata priča ili pjesma iznova donosi iste riječi. Jednostavni načini da modelirate simbole tijekom čitanja i glazbe, a da ni jedno ni drugo ne postane ispit.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-books-and-songs/"
+    },
+    {
+      "slug": "aac-out-and-about",
+      "title": "Izvan kuće: parkovi, trgovine i termini uz potpomognutu komunikaciju",
+      "description": "Malo planiranja olakšava komunikaciju izvan kuće, od igrališta do ordinacije obiteljskog liječnika. Što ponijeti, što modelirati i što pripremiti.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-out-and-about/"
+    },
+    {
+      "slug": "choosing-vocabulary",
+      "title": "Riječi koje zvuče kao osoba",
+      "description": "Ploča treba pristajati stvarnom životu, a ne općenitom popisu. Kako odabrati rječnik prema interesima, dobi, kulturi i riječima koje osoba doista treba.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/choosing-vocabulary/"
+    },
+    {
+      "slug": "when-progress-feels-slow",
+      "title": "Kad se napredak čini sporim: što primijetiti osim riječi",
+      "description": "Napredak u potpomognutoj komunikaciji često je tih. Znakovi koje vrijedi tražiti, kako voditi jednostavne bilješke i kada zatražiti preispitivanje, a ne kriviti sebe.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/when-progress-feels-slow/"
+    },
+    {
+      "slug": "working-with-a-speech-therapist",
+      "title": "Rad s logopedom na potpomognutoj komunikaciji",
+      "description": "Što ponijeti, što pitati i kako termine učiniti korisnima kad kod kuće uvodite komunikacijski sustav.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/working-with-a-speech-therapist/"
+    },
+    {
+      "slug": "aac-in-multilingual-families",
+      "title": "Potpomognuta komunikacija u višejezičnim obiteljima: sačuvajte jezik doma",
+      "description": "Ploča za komunikaciju ne bi smjela svesti obitelj na jedan jezik. Kako napraviti mjesta za jezik doma, imena, hranu i riječi koje zvuče kao dom.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-in-multilingual-families/"
+    },
+    {
+      "slug": "aac-for-adults",
+      "title": "Potpomognuta komunikacija nije samo za djecu: odrasli nakon moždanog udara i s promjenjivim potrebama",
+      "description": "Potpomognutu komunikaciju koriste i odrasli, ponekad nakon moždanog udara, ozljede ili progresivne bolesti. Važni su poštovanje, umor i glas koji pristaje odraslom životu.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-for-adults/"
+    },
+    {
+      "slug": "aac-privacy-and-dignity",
+      "title": "Privatnost i dostojanstvo: potpomognuta komunikacija u osobnoj njezi i na javnim mjestima",
+      "description": "Komunikacijski uređaj čuva privatne riječi, fotografije i poruke. Kako zaštititi dostojanstvo, pitati prije dijeljenja i ostaviti osobu da zadrži kontrolu.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-privacy-and-dignity/"
+    },
+    {
+      "slug": "aac-emergency-communication",
+      "title": "Komunikacija u hitnim situacijama: plan koji nadilazi aplikaciju",
+      "description": "Aplikacija za komunikaciju može zakazati, ostati bez baterije ili biti nedostupna. Jednostavan rezervni plan pomaže osobi da zatraži pomoć kad je najvažnije.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/hr/blog/aac-emergency-communication/"
+    },
+    {
+      "slug": "everyday-routines",
+      "title": "Svakodnevne rutine: mali trenuci za komunikaciju",
+      "description": "Obroci, oblačenje, igra i odlazak na spavanje iznova donose iste riječi. Ideje kako te trenutke iskoristiti uz ploču sa simbolima.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/hr/blog/everyday-routines/"
+    },
+    {
+      "slug": "modelling-at-home",
+      "title": "Modeliranje: pokazivati, a ne ispitivati",
+      "description": "Kako obitelji same koriste djetetovu ploču sa simbolima dok razgovaraju i kako to jednostavno uklopiti u običan dan.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/hr/blog/modelling-at-home/"
+    },
+    {
+      "slug": "what-is-aac",
+      "title": "Što je potpomognuta komunikacija? Jednostavan uvod za roditelje",
+      "description": "Što znači potpomognuta komunikacija, kakve oblike ima i koje brige roditelji najčešće spominju.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/hr/blog/what-is-aac/"
+    },
+    {
+      "slug": "honest-project-overview",
+      "title": "Sono, iskreno: gdje je projekt danas",
+      "description": "Što je Sono, što danas radi, što još ne radi i kako možete pomoći kao volonter.",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "url": "https://sono.click/hr/blog/honest-project-overview/"
+    }
+  ]
+}

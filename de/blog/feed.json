@@ -1,0 +1,358 @@
+{
+  "language": "de",
+  "updated": "2026-11-15",
+  "posts": [
+    {
+      "slug": "paper-first",
+      "title": "Papier zuerst: das Board ohne Akku, das überallhin mitkommt",
+      "description": "Ein gedrucktes Board ist sofort da, robust und leicht persönlich zu gestalten. Wie du eine Papierkopie machst, die zur App passt und Kommunikation verfügbar hält, wenn Technik versagt.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/paper-first/"
+    },
+    {
+      "slug": "choosing-a-voice",
+      "title": "Eine Stimme finden, die passt: Akzent, Alter und Persönlichkeit",
+      "description": "Die Stimme einer Kommunikations-App gehört zur Identität eines Menschen. Wie du eine Stimme auswählst, testest und personalisierst, ohne bei der falschen zu landen.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/choosing-a-voice/"
+    },
+    {
+      "slug": "photos-or-symbols",
+      "title": "Fotos oder Symbole? Wähle, was die Person tatsächlich erkennt",
+      "description": "Ein klares Foto kann besser funktionieren als ein sauberes Symbol – oder umgekehrt. Wie du Bilder nach Wiedererkennung statt nach Ästhetik auswählst und das Board konsistent hältst.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/photos-or-symbols/"
+    },
+    {
+      "slug": "total-communication",
+      "title": "Gebärden, Gesten und Symbole: ein Ansatz der totalen Kommunikation",
+      "description": "UK ist nicht ein einzelnes Gerät und keine einzelne Methode. Lautsprache, Gebärden, Gesten, Zeigen und Symbole können zusammenwirken, und jeden Weg anzunehmen erleichtert Kommunikation.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/total-communication/"
+    },
+    {
+      "slug": "modelling-vs-prompting",
+      "title": "Modelling oder Prompting: helfen, ohne zu übernehmen",
+      "description": "Modelling zeigt jemandem, wie ein Board funktioniert. Prompting fordert die Person auf, etwas vorzuführen. Der Unterschied ist wichtig, und ein paar kleine Gewohnheiten verhindern, dass Hilfe zur Prüfung wird.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/modelling-vs-prompting/"
+    },
+    {
+      "slug": "transitions-and-change",
+      "title": "Übergänge: Veränderungen mit UK leichter bewältigen",
+      "description": "Eine Lieblingsaktivität zu beenden oder an einen neuen Ort zu wechseln, kann der schwerste Teil des Tages sein. Symbole, Warnungen und Auswahlmöglichkeiten können Übergänge erleichtern.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/transitions-and-change/"
+    },
+    {
+      "slug": "birthdays-and-celebrations",
+      "title": "Geburtstage und Feste: UK in den lauten, fröhlichen Momenten",
+      "description": "Feste sind voll, laut und voller Verwandter. Ein wenig Planung hilft der Person mit UK, dabei zu sein, verstanden zu werden und sich zurückzuziehen, wenn es zu viel wird.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/birthdays-and-celebrations/"
+    },
+    {
+      "slug": "travel-with-aac",
+      "title": "Reisen und Urlaub: UK in Flugzeugen, Zügen und unbekannten Orten",
+      "description": "Ein Kommunikationssystem kann reisen, braucht aber ein wenig Planung. Was du einpackst, was du vorbereitest und wie du eine Stimme weit weg von zu Hause verfügbar hältst.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/travel-with-aac/"
+    },
+    {
+      "slug": "aac-and-literacy",
+      "title": "Lesen, Schreiben und UK: Symbole sind nicht der Feind der Schriftsprache",
+      "description": "Ein Kommunikationsboard und die Freude am Lesen können gemeinsam wachsen. Praktische Wege, Buchstaben, Laute und Schreiben einzubeziehen, ohne aus jedem Moment eine Lektion zu machen.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/aac-and-literacy/"
+    },
+    {
+      "slug": "pain-and-illness",
+      "title": "Schmerz und Krankheit: helfen, zu beschreiben, was wehtut",
+      "description": "Wenn jemand nicht leicht sagen kann, wo es wehtut, ist Verhalten nur ein Teil des Bildes. Wie du Schmerzwörter vorbereitest, klar fragst und bei Arztterminen für die Person eintrittst.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/pain-and-illness/"
+    },
+    {
+      "slug": "calm-down-plans",
+      "title": "Beruhigungspläne: UK für die Momente nach einem Meltdown",
+      "description": "Wenn jemand überwältigt ist, machen mehr Wörter es meist schwerer. Wie du eine Beruhigungsroutine planst, Kommunikation verfügbar hältst und danach wieder anknüpfst.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/calm-down-plans/"
+    },
+    {
+      "slug": "friendships-and-playdates",
+      "title": "Freundschaften und Verabredungen: UK mit Kindern außerhalb der Familie",
+      "description": "Freunde passen sich meist schnell an, wenn sie wissen, was zu tun ist. Einfache Vorbereitungen helfen einem Kind mit UK, mitzumachen, verstanden zu werden und die Kontrolle über die eigene Stimme zu behalten.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/friendships-and-playdates/"
+    },
+    {
+      "slug": "teasing-and-self-advocacy",
+      "title": "Necken, Mobbing und Selbstvertretung: Wörter, die in der Schule helfen",
+      "description": "Ein Kommunikationsgerät kann unerwünschte Aufmerksamkeit auf sich ziehen. Wie du klare Wörter vorbereitest, die Schule einbeziehst und ein Kind oder einen Jugendlichen darin unterstützt, für sich selbst einzutreten.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/teasing-and-self-advocacy/"
+    },
+    {
+      "slug": "teenagers-and-aac",
+      "title": "Jugendliche und UK: Privatsphäre, Selbstständigkeit und eine eigene Stimme",
+      "description": "Die Adoleszenz verändert alles, auch die Kommunikation. Wie du Jugendliche in die Wahl ihres Wortschatzes, ihrer Stimme und ihrer Grenzen einbeziehst, ohne ständig über ihnen zu kreisen.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/teenagers-and-aac/"
+    },
+    {
+      "slug": "dating-and-relationships",
+      "title": "Dating und Beziehungen mit UK: Liebe, Zustimmung und Grenzen",
+      "description": "Erwachsene und Jugendliche, die UK nutzen, haben dasselbe Recht auf Beziehungen wie alle anderen. Wie du Raum für Dating, Privatsphäre und klare Zustimmung schaffst.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/dating-and-relationships/"
+    },
+    {
+      "slug": "aac-at-work",
+      "title": "UK bei der Arbeit: Besprechungen, Vorstellungsgespräche und der ganz normale Kollegenkreis",
+      "description": "Ein Kommunikationssystem gehört auch an den Arbeitsplatz. Praktische Wege, sich auf Besprechungen vorzubereiten, Anpassungen zu erbitten und eine professionelle Stimme zu bewahren.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-at-work/"
+    },
+    {
+      "slug": "co-designing-the-board",
+      "title": "Gemeinsam bauen: das Board mit der Person gestalten, die es nutzt",
+      "description": "Ein Board funktioniert besser, wenn die Person mitreden kann. Praktische Wege, Kinder, Jugendliche und Erwachsene in die Wahl von Wörtern, Bildern und Layout einzubeziehen.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/co-designing-the-board/"
+    },
+    {
+      "slug": "when-the-device-is-not-used",
+      "title": "Wenn das Gerät nicht benutzt wird: eine Checkliste zur Fehlersuche",
+      "description": "Eine Kommunikations-App, die ungenutzt herumliegt, ist kein gescheitertes Experiment. Prüfe Zugang, Motivation, Wortschatz und die Gewohnheiten der Gesprächspartner, bevor du das ganze System änderst.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/when-the-device-is-not-used/"
+    },
+    {
+      "slug": "device-care",
+      "title": "Laden, reinigen und sichern: ein Kommunikationsgerät pflegen",
+      "description": "Ein paar einfache Gewohnheiten halten ein Gerät am Laufen, schützen eigene Wörter und Fotos und ersparen dir die Panik bei leerem Akku im falschen Moment.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/device-care/"
+    },
+    {
+      "slug": "waiting-for-support",
+      "title": "Auf eine Einschätzung oder Finanzierung warten: Was du in der Zwischenzeit tun kannst",
+      "description": "Wartelisten können lang sein, und mit UK anzufangen sollte nicht von einem perfekten Plan abhängen. Praktische Schritte, während du auf fachliche oder finanzielle Unterstützung wartest.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/waiting-for-support/"
+    },
+    {
+      "slug": "the-ten-second-pause",
+      "title": "Die Zehn-Sekunden-Pause: die Kommunikationsfähigkeit, die die meisten von uns überspringen",
+      "description": "Warten fühlt sich unangenehm an, doch eine stille Pause bewirkt oft mehr als eine weitere Frage. Was du ausprobieren kannst und wie es mit Modelling zusammenhängt.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/the-ten-second-pause/"
+    },
+    {
+      "slug": "aac-at-school",
+      "title": "Schulanfang mit UK: eine Übergabe, die wirklich hilft",
+      "description": "Ein einseitiges Profil, eine kurze Vorführung und ein paar abgestimmte Wörter können den Unterschied machen zwischen einem Gerät, das in der Schule genutzt wird, und einem, das in der Tasche bleibt.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/aac-at-school/"
+    },
+    {
+      "slug": "aac-consent-and-control",
+      "title": "Nein, stopp, Hilfe: Kontrolle und Zustimmung mit UK vermitteln",
+      "description": "Ein Kommunikationssystem ist nicht nur zum Bitten da. Die Wörter, mit denen jemand ablehnen, seine Meinung ändern und um Hilfe bitten kann, zählen genauso viel.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/aac-consent-and-control/"
+    },
+    {
+      "slug": "aac-beyond-requests",
+      "title": "Mehr als „mehr“: Kommentare, Gefühle und Witze mit UK",
+      "description": "Bitten ist nur ein Grund zu kommunizieren. Kommentare, Gefühle, Protest und alberne Momente lassen eine Stimme wie einen Menschen wirken.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-beyond-requests/"
+    },
+    {
+      "slug": "core-words",
+      "title": "Kleine Wörter, großer Unterschied: warum Kernwörter zählen",
+      "description": "Wörter wie ich, wollen, stopp, gehen und Hilfe leisten mehr als hundert Nomen. Wie du Kernvokabular auswählst und modellierst, ohne daraus eine Lektion zu machen.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/core-words/"
+    },
+    {
+      "slug": "keep-aac-within-reach",
+      "title": "In Reichweite halten: Zugang gehört zur Kommunikation",
+      "description": "Ein Kommunikationsgerät funktioniert nur, wenn es da ist. Praktische Wege, es geladen, nah und verfügbar zu halten, ohne es zur Belohnung zu machen.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/keep-aac-within-reach/"
+    },
+    {
+      "slug": "when-taps-seem-random",
+      "title": "Wenn jedes Antippen wahllos wirkt: erst reagieren, später korrigieren",
+      "description": "Ein Symbolboard zu erkunden kann wie Chaos aussehen. Was das Antippen bedeuten könnte und wie du reagierst, ohne Kommunikation zur Prüfung zu machen.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/when-taps-seem-random/"
+    },
+    {
+      "slug": "siblings-and-aac",
+      "title": "Geschwister und UK: Platz für jede Stimme",
+      "description": "Brüder und Schwestern sind oft die besten Kommunikationspartner – und manchmal die am häufigsten Übersehenen. Wie du sie einbeziehst, ohne ihnen die Rolle von Betreuungspersonen zu geben.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/siblings-and-aac/"
+    },
+    {
+      "slug": "explaining-aac-to-family",
+      "title": "Wie du Großeltern und Verwandten UK erklärst, ohne einen Vortrag zu halten",
+      "description": "Eine Erklärung in einem Satz, drei Wörter zum Modellieren und die Erlaubnis, es falsch zu machen, können wohlmeinende Verwandte zu sicheren Kommunikationspartnern machen.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/explaining-aac-to-family/"
+    },
+    {
+      "slug": "aac-through-play",
+      "title": "Spielen, Pausen und sanfte Sabotage: Modellieren ohne Druck",
+      "description": "Spiele schaffen Gründe zu kommunizieren, ganz ohne Arbeitsblatt. Wie du Menschenspiele, Warten und sanfte Sabotage nutzt, damit sich Symbole nützlich anfühlen.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-through-play/"
+    },
+    {
+      "slug": "aac-at-mealtimes",
+      "title": "Essenszeiten: der einfachste Ort, um mit UK anzufangen",
+      "description": "Essen bringt Auswahl, Wiederholung und einen natürlichen Grund zu kommunizieren. Wie du Frühstück, Snacks und Abendessen nutzt, ohne den Tisch in eine Lektion zu verwandeln.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-at-mealtimes/"
+    },
+    {
+      "slug": "aac-books-and-songs",
+      "title": "Bücher, Lieder und Wiederholung: Wörter mit Lieblingsbüchern und -liedern aufbauen",
+      "description": "Eine vertraute Geschichte oder ein Lied bringt dieselben Wörter immer wieder. Einfache Wege, beim Lesen und Musizieren Symbole zu modellieren, ohne daraus einen Test zu machen.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-books-and-songs/"
+    },
+    {
+      "slug": "aac-out-and-about",
+      "title": "Unterwegs: Parks, Geschäfte und Termine mit UK",
+      "description": "Ein wenig Planung macht Kommunikation außer Haus leichter, vom Spielplatz bis zur Arztpraxis. Was du einpackst, was du modellierst und was du vorbereitest.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-out-and-about/"
+    },
+    {
+      "slug": "choosing-vocabulary",
+      "title": "Wörter wählen, die nach der Person klingen",
+      "description": "Ein Board sollte zu einem echten Leben passen, nicht zu einer allgemeinen Liste. Wie du Wortschatz nach Interessen, Alter, Kultur und den Wörtern wählst, die eine Person tatsächlich braucht.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/choosing-vocabulary/"
+    },
+    {
+      "slug": "when-progress-feels-slow",
+      "title": "Wenn Fortschritte langsam wirken: Worauf du außer Wörtern achten kannst",
+      "description": "Fortschritte in der UK sind oft leise. Welche Zeichen du suchen kannst, wie du einfach Notizen machst und wann du um eine Überprüfung bittest, statt dir Vorwürfe zu machen.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/when-progress-feels-slow/"
+    },
+    {
+      "slug": "working-with-a-speech-therapist",
+      "title": "Mit einer Logopädin oder einem Logopäden an Unterstützter Kommunikation arbeiten",
+      "description": "Was du mitbringst, was du fragst und wie Termine hilfreich werden, wenn du zu Hause ein Kommunikationssystem einführst.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/working-with-a-speech-therapist/"
+    },
+    {
+      "slug": "aac-in-multilingual-families",
+      "title": "UK in mehrsprachigen Familien: die Familiensprache nah halten",
+      "description": "Ein Kommunikationsboard sollte eine Familie nicht auf eine Sprache reduzieren. Wie du Raum für die Familiensprache, Namen, Essen und Wörter schaffst, die sich wie Zuhause anfühlen.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/aac-in-multilingual-families/"
+    },
+    {
+      "slug": "aac-for-adults",
+      "title": "UK ist nicht nur für Kinder: Erwachsene nach einem Schlaganfall und mit sich verändernden Bedürfnissen",
+      "description": "Auch Erwachsene nutzen UK, manchmal nach einem Schlaganfall, einer Verletzung oder einer fortschreitenden Erkrankung. Respekt, Erschöpfung und eine Stimme, die zum Erwachsenenleben passt, zählen.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-for-adults/"
+    },
+    {
+      "slug": "aac-privacy-and-dignity",
+      "title": "Privatsphäre und Würde: UK bei der Körperpflege und in der Öffentlichkeit",
+      "description": "Ein Kommunikationsgerät enthält private Wörter, Fotos und Nachrichten. Wie du Würde schützt, vor dem Teilen fragst und die Person die Kontrolle behalten lässt.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-privacy-and-dignity/"
+    },
+    {
+      "slug": "aac-emergency-communication",
+      "title": "Notfallkommunikation: über die App hinaus planen",
+      "description": "Eine Kommunikations-App kann ausfallen, der Akku kann leer sein oder das Gerät außer Reichweite geraten. Ein einfacher Ersatzplan hilft, wenn es am meisten darauf ankommt.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/de/blog/aac-emergency-communication/"
+    },
+    {
+      "slug": "everyday-routines",
+      "title": "Alltagsroutinen: kleine Momente zum Kommunizieren",
+      "description": "Essenszeiten, Anziehen, Spielen und Zubettgehen bringen dieselben Wörter immer wieder. Ideen, wie du diese Momente mit einem Symbolboard nutzt.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/everyday-routines/"
+    },
+    {
+      "slug": "modelling-at-home",
+      "title": "Modelling: zeigen statt abfragen",
+      "description": "Wie Familien das Symbolboard ihres Kindes selbst benutzen, während sie sprechen, und einfache Wege, es in einen ganz normalen Tag einzufügen.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/de/blog/modelling-at-home/"
+    },
+    {
+      "slug": "what-is-aac",
+      "title": "Was ist Unterstützte Kommunikation (UK)? Eine Einführung in einfacher Sprache für Eltern",
+      "description": "Was Unterstützte Kommunikation bedeutet, welche Formen es gibt und welche Sorgen Eltern am häufigsten beschäftigt.",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "url": "https://sono.click/de/blog/what-is-aac/"
+    },
+    {
+      "slug": "honest-project-overview",
+      "title": "Sono, ehrlich: Wo das Projekt steht",
+      "description": "Was Sono ist, was heute funktioniert, was noch nicht klappt und wie du ehrenamtlich helfen kannst.",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "url": "https://sono.click/de/blog/honest-project-overview/"
+    }
+  ]
+}

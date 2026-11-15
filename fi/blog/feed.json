@@ -1,0 +1,358 @@
+{
+  "language": "fi",
+  "updated": "2026-11-15",
+  "posts": [
+    {
+      "slug": "paper-first",
+      "title": "Paperi ensin: akuton taulu, joka kulkee kaikkialle",
+      "description": "Tulostettu taulu on välitön, kestävä ja helppo personoida. Miten tehdä paperikopio, joka vastaa sovellusta ja pitää kommunikoinnin saatavilla, kun teknologia ei toimi.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/paper-first/"
+    },
+    {
+      "slug": "choosing-a-voice",
+      "title": "Ääni, joka sopii: aksentti, ikä ja persoonallisuus",
+      "description": "Kommunikointisovelluksen ääni on osa henkilön identiteettiä. Miten valita, kokeilla ja personoida ääni valitsematta vahingossa väärää.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/choosing-a-voice/"
+    },
+    {
+      "slug": "photos-or-symbols",
+      "title": "Valokuvat vai symbolit? Valitse se, minkä henkilö todella tunnistaa",
+      "description": "Selkeä valokuva voi toimia paremmin kuin siisti kuvake, tai päinvastoin. Miten valita kuvat tunnistettavuuden eikä siisteyden mukaan ja pitää taulu yhtenäisenä.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/photos-or-symbols/"
+    },
+    {
+      "slug": "total-communication",
+      "title": "Viittomat, eleet ja symbolit: kokonaisvaltainen kommunikointi",
+      "description": "AAC ei ole yksi laite tai yksi menetelmä. Puhe, viittomat, eleet, osoittaminen ja symbolit voivat toimia yhdessä, ja jokaisen reitin hyväksyminen helpottaa kommunikointia.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/total-communication/"
+    },
+    {
+      "slug": "modelling-vs-prompting",
+      "title": "Mallintaminen ja kehottaminen: miten auttaa ottamatta ohjia",
+      "description": "Mallintaminen näyttää, miten taulu toimii. Kehottaminen pyytää henkilöä suoriutumaan. Eröllä on väliä, ja muutama pieni tapa estää apua muuttumasta kokeeksi.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/modelling-vs-prompting/"
+    },
+    {
+      "slug": "transitions-and-change",
+      "title": "Siirtymät: miten muutoksesta voi tehdä hallittavan AAC:n avulla",
+      "description": "Lempitoiminnan lopettaminen tai uuteen paikkaan siirtyminen voi olla päivän vaikein hetki. Symbolit, varoitukset ja valinnat voivat helpottaa siirtymiä.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/transitions-and-change/"
+    },
+    {
+      "slug": "birthdays-and-celebrations",
+      "title": "Syntymäpäivät ja juhlat: AAC äänekkäissä ja iloisissa hetkissä",
+      "description": "Juhlat ovat kiireisiä, äänekkäitä ja täynnä sukulaisia. Pieni suunnittelu auttaa AAC:tä käyttävää henkilöä osallistumaan, tulemaan ymmärretyksi ja poistumaan, kun on liikaa.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/birthdays-and-celebrations/"
+    },
+    {
+      "slug": "travel-with-aac",
+      "title": "Matkustaminen ja lomat: AAC lennoilla, junissa ja vieraissa paikoissa",
+      "description": "Kommunikointijärjestelmä kulkee mukana, mutta vaatii hieman suunnittelua. Mitä pakata, mitä valmistella ja miten pitää ääni saatavilla kaukana kotoa.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/travel-with-aac/"
+    },
+    {
+      "slug": "aac-and-literacy",
+      "title": "Lukeminen, kirjoittaminen ja AAC: symbolit eivät ole lukutaidon vihollisia",
+      "description": "Kommunikointitaulu ja rakkaus lukemiseen voivat kasvaa yhdessä. Käytännön tapoja tuoda kirjaimet, äänteet ja kirjoittaminen mukaan tekemättä jokaisesta hetkestä oppituntia.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-and-literacy/"
+    },
+    {
+      "slug": "pain-and-illness",
+      "title": "Kipu ja sairaus: miten auttaa kertomaan, mihin sattuu",
+      "description": "Kun henkilö ei pysty helposti kertomaan, mihin sattuu, käytös on vain osa kuvaa. Miten valmistella kipusanat, kysyä selkeästi ja toimia vastaanotolla.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/pain-and-illness/"
+    },
+    {
+      "slug": "calm-down-plans",
+      "title": "Rauhoittumissuunnitelmat: AAC romahduksen jälkeisiin hetkiin",
+      "description": "Kun ihminen on ylikuormittunut, useammat sanat yleensä vaikeuttavat asioita. Miten suunnitella rauhoittumisrutiini, pitää kommunikointi saatavilla ja korjata tilanne jälkeenpäin.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/calm-down-plans/"
+    },
+    {
+      "slug": "friendships-and-playdates",
+      "title": "Ystävyyssuhteet ja leikkitreffit: AAC perheen ulkopuolisten lasten kanssa",
+      "description": "Ystävät sopeutuvat yleensä nopeasti, kun tietävät, mitä tehdä. Pienet valmistelut auttavat AAC:tä käyttävää lasta osallistumaan, tulemaan ymmärretyksi ja pitämään oman äänensä.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/friendships-and-playdates/"
+    },
+    {
+      "slug": "teasing-and-self-advocacy",
+      "title": "Kiusoittelu, kiusaaminen ja itsensä puolustaminen: sanoja, joista on apua koulussa",
+      "description": "Kommunikointilaite voi herättää ei-toivottua huomiota. Miten valmistella selkeät sanat, ottaa koulu mukaan ja tukea lasta tai nuorta puhumaan omasta puolestaan.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/teasing-and-self-advocacy/"
+    },
+    {
+      "slug": "teenagers-and-aac",
+      "title": "Nuoret ja AAC: yksityisyys, itsenäisyys ja oma ääni",
+      "description": "Nuoruus muuttaa kaiken, myös kommunikoinnin. Miten ottaa nuori mukaan valitsemaan sanastonsa, äänensä ja rajansa ilman jatkuvaa valvontaa.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/teenagers-and-aac/"
+    },
+    {
+      "slug": "dating-and-relationships",
+      "title": "Seurustelu ja ihmissuhteet AAC:n kanssa: rakkaus, suostumus ja rajat",
+      "description": "AAC:tä käyttävillä aikuisilla ja teineillä on sama oikeus ihmissuhteisiin kuin kaikilla muillakin. Miten tehdä tilaa seurustelulle, yksityisyydelle ja selkeälle suostumukselle.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/dating-and-relationships/"
+    },
+    {
+      "slug": "aac-at-work",
+      "title": "AAC työelämässä: kokoukset, haastattelut ja arjen kollegat",
+      "description": "Kommunikointijärjestelmä kuuluu myös työpaikalle. Käytännön keinoja valmistautua kokouksiin, pyytää mukautuksia ja pitää ammatillinen ääni.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-at-work/"
+    },
+    {
+      "slug": "co-designing-the-board",
+      "title": "Rakennetaan yhdessä: taulun suunnittelu yhdessä käyttäjän kanssa",
+      "description": "Taulu toimii paremmin, kun henkilöllä on sanansa sanottavana. Käytännön tapoja ottaa lapset, teinit ja aikuiset mukaan sanojen, kuvien ja asettelun valintaan.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/co-designing-the-board/"
+    },
+    {
+      "slug": "when-the-device-is-not-used",
+      "title": "Kun laitetta ei käytetä: vianetsintälista",
+      "description": "Käyttämättä jäävä kommunikointisovellus ei ole epäonnistunut kokeilu. Käy läpi saatavuus, motivaatio, sanasto ja kumppanien tavat ennen kuin muutat koko järjestelmää.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/when-the-device-is-not-used/"
+    },
+    {
+      "slug": "device-care",
+      "title": "Lataus, puhdistus ja varmuuskopiot: kommunikointilaitteen hoitaminen",
+      "description": "Muutama yksinkertainen tapa pitää laite toimivana, suojaa omat sanat ja kuvat ja välttää paniikki, kun akku loppuu väärällä hetkellä.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/device-care/"
+    },
+    {
+      "slug": "waiting-for-support",
+      "title": "Arvion tai rahoituksen odottaminen: mitä voit tehdä sillä välin",
+      "description": "Jonot voivat olla pitkiä, eikä AAC:n aloittamisen pitäisi riippua täydellisestä suunnitelmasta. Käytännön vaiheet, joihin voit ryhtyä odottaessasi ammatillista tai taloudellista tukea.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/waiting-for-support/"
+    },
+    {
+      "slug": "the-ten-second-pause",
+      "title": "Kymmenen sekunnin tauko: kommunikointitaito, jonka useimmat meistä ohittavat",
+      "description": "Odottaminen tuntuu kiusalliselta, mutta hiljainen tauko tekee usein enemmän kuin uusi kysymys. Mitä kokeilla ja miten se liittyy mallintamiseen.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/the-ten-second-pause/"
+    },
+    {
+      "slug": "aac-at-school",
+      "title": "Koulun aloitus AAC:n kanssa: perehdytys, joka todella auttaa",
+      "description": "Yhden sivun profiili, lyhyt esittely ja muutama sovittu sana voivat ratkaista, käytetäänkö laitetta koulussa vai jääkö se reppuun.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-at-school/"
+    },
+    {
+      "slug": "aac-consent-and-control",
+      "title": "Ei, seis, apua: hallinnan ja suostumuksen opettaminen AAC:n avulla",
+      "description": "Kommunikointijärjestelmä ei ole vain pyytämistä varten. Sanat, joilla voi kieltäytyä, muuttaa mielensä ja pyytää apua, ovat yhtä tärkeitä.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-consent-and-control/"
+    },
+    {
+      "slug": "aac-beyond-requests",
+      "title": "Muutakin kuin ”lisää”: kommentit, tunteet ja vitsit AAC:n avulla",
+      "description": "Pyytäminen on vain yksi syy kommunikoida. Kommentit, tunteet, vastalauseet ja hassut hetket tekevät äänestä ihmisen.",
+      "date": "2026-11-15",
+      "minutes": 2,
+      "url": "https://sono.click/fi/blog/aac-beyond-requests/"
+    },
+    {
+      "slug": "core-words",
+      "title": "Pienet sanat, suuri ero: miksi ydinsanat ovat tärkeitä",
+      "description": "Sanat kuten minä, haluan, seis, mene ja apua tekevät enemmän työtä kuin sata substantiivia. Miten valita ja mallintaa ydinsanastoa tekemättä siitä oppituntia.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/core-words/"
+    },
+    {
+      "slug": "keep-aac-within-reach",
+      "title": "Pidä se ulottuvilla: saatavuus on osa kommunikointia",
+      "description": "Kommunikointilaite toimii vain, kun se on paikalla. Käytännön tapoja pitää se ladattuna, lähellä ja saatavilla ilman, että siitä tehdään palkinto.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/keep-aac-within-reach/"
+    },
+    {
+      "slug": "when-taps-seem-random",
+      "title": "Kun jokainen napautus tuntuu satunnaiselta: vastaa ensin, korjaa myöhemmin",
+      "description": "Symbolitaulun tutkiminen voi näyttää kaaokselta. Mitä napauttaminen voi tarkoittaa ja miten vastata muuttamatta kommunikointia kokeeksi.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/when-taps-seem-random/"
+    },
+    {
+      "slug": "siblings-and-aac",
+      "title": "Sisarukset ja AAC: tilaa jokaisen äänelle",
+      "description": "Veljet ja sisaret ovat usein parhaita kommunikointikumppaneita ja joskus kaikkein huomaamattomimpia. Miten ottaa heidät mukaan tekemättä heistä hoivaajia.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/siblings-and-aac/"
+    },
+    {
+      "slug": "explaining-aac-to-family",
+      "title": "Miten AAC selitetään isovanhemmille ja sukulaisille ilman luentoa",
+      "description": "Yhden lauseen selitys, kolme mallinnettavaa sanaa ja lupa erehtyä voivat tehdä hyvää tarkoittavasta sukulaisesta varman kommunikointikumppanin.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/explaining-aac-to-family/"
+    },
+    {
+      "slug": "aac-through-play",
+      "title": "Leikki, tauko ja sabotaasi: paineettomia tapoja mallintaa",
+      "description": "Pelit luovat syitä kommunikoida ilman tehtäväpaperia. Miten käyttää ihmisleikkejä, odottamista ja lempeää sabotaasia, jotta symbolit tuntuvat hyödyllisiltä.",
+      "date": "2026-11-15",
+      "minutes": 2,
+      "url": "https://sono.click/fi/blog/aac-through-play/"
+    },
+    {
+      "slug": "aac-at-mealtimes",
+      "title": "Ateriat: helpoin paikka aloittaa AAC",
+      "description": "Ruoka tuo valintoja, toistoa ja luonnollisen syyn kommunikoida. Miten käyttää aamiaista, välipaloja ja illallista tekemättä pöydästä oppituntia.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-at-mealtimes/"
+    },
+    {
+      "slug": "aac-books-and-songs",
+      "title": "Kirjat, laulut ja toisto: sanoja lempikirjojen ja -laulujen kautta",
+      "description": "Tuttu tarina tai laulu toistaa samoja sanoja yhä uudelleen. Yksinkertaisia tapoja mallintaa symboleita lukemisen ja musiikin aikana tekemättä kummastakaan testiä.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-books-and-songs/"
+    },
+    {
+      "slug": "aac-out-and-about",
+      "title": "Liikkeellä: puistot, kaupat ja käynnit AAC:n kanssa",
+      "description": "Pieni suunnittelu helpottaa kommunikointia kodin ulkopuolella leikkikentältä lääkärikäyntiin. Mitä pakata, mitä mallintaa ja mihin valmistautua.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-out-and-about/"
+    },
+    {
+      "slug": "choosing-vocabulary",
+      "title": "Sanoja, jotka kuulostavat henkilöltä itseltään",
+      "description": "Taulun pitäisi sopia todelliseen elämään, ei yleiseen listaan. Miten valita sanasto kiinnostuksen kohteiden, iän, kulttuurin ja todella tarvittavien sanojen ympärille.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/choosing-vocabulary/"
+    },
+    {
+      "slug": "when-progress-feels-slow",
+      "title": "Kun edistys tuntuu hitaalta: mitä muuta kannattaa huomata kuin sanat",
+      "description": "AAC:n edistys on usein hiljaista. Merkkejä, joita kannattaa etsiä, miten pitää yksinkertaista kirjaa ja milloin pyytää arviointia sen sijaan, että syyttäisi itseään.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/when-progress-feels-slow/"
+    },
+    {
+      "slug": "working-with-a-speech-therapist",
+      "title": "Puheterapeutin kanssa työskentely AAC:ssä",
+      "description": "Mitä ottaa mukaan, mitä kysyä ja miten tehdä käynneistä hyödyllisiä, kun otat kommunikointijärjestelmää käyttöön kotona.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/working-with-a-speech-therapist/"
+    },
+    {
+      "slug": "aac-in-multilingual-families",
+      "title": "AAC monikielisissä perheissä: pidä kotikieli lähellä",
+      "description": "Kommunikointitaulun ei pidä pelkistää perhettä yhdeksi kieleksi. Miten tehdä tilaa kotikielelle, nimille, ruoalle ja sanoille, jotka tuntuvat kodilta.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-in-multilingual-families/"
+    },
+    {
+      "slug": "aac-for-adults",
+      "title": "AAC ei ole vain lasten asia: aikuiset aivohalvauksen jälkeen ja muuttuvissa tarpeissa",
+      "description": "Aikuiset käyttävät AAC:tä myös — joskus aivohalvauksen, vamman tai etenevän sairauden jälkeen. Kunnioitus, väsymys ja aikuisen elämään sopiva ääni ovat tärkeitä.",
+      "date": "2026-11-15",
+      "minutes": 2,
+      "url": "https://sono.click/fi/blog/aac-for-adults/"
+    },
+    {
+      "slug": "aac-privacy-and-dignity",
+      "title": "Yksityisyys ja ihmisarvo: AAC henkilökohtaisessa hoidossa ja julkisilla paikoilla",
+      "description": "Kommunikointilaite sisältää yksityisiä sanoja, kuvia ja viestejä. Miten suojella ihmisarvoa, kysyä ennen jakamista ja pitää hallinta henkilöllä itsellään.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-privacy-and-dignity/"
+    },
+    {
+      "slug": "aac-emergency-communication",
+      "title": "Hätätilanteen kommunikointi: suunnitelma sovelluksen ulkopuolelle",
+      "description": "Kommunikointisovellus voi kaatua, akku loppua tai laite olla ulottumattomissa. Yksinkertainen varasuunnitelma auttaa pyytämään apua silloin, kun sitä eniten tarvitaan.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/aac-emergency-communication/"
+    },
+    {
+      "slug": "everyday-routines",
+      "title": "Arjen rutiinit: pieniä hetkiä kommunikointiin",
+      "description": "Ateriat, pukeutuminen, leikki ja nukkumaanmeno tuovat samat sanat esiin yhä uudelleen. Ideoita näiden hetkien käyttöön symbolitaulun kanssa.",
+      "date": "2026-11-08",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/everyday-routines/"
+    },
+    {
+      "slug": "modelling-at-home",
+      "title": "Mallintaminen: näyttämistä, ei testaamista",
+      "description": "Miten perheet käyttävät lapsensa symbolitaulua itse puhuessaan ja miten se sopii tavalliseen päivään yksinkertaisin keinoin.",
+      "date": "2026-11-08",
+      "minutes": 3,
+      "url": "https://sono.click/fi/blog/modelling-at-home/"
+    },
+    {
+      "slug": "what-is-aac",
+      "title": "Mitä puhetta tukeva ja korvaava kommunikointi (AAC) tarkoittaa? Selkokielinen johdanto vanhemmille",
+      "description": "Mitä puhetta tukeva ja korvaava kommunikointi tarkoittaa, missä muodoissa sitä käytetään ja mitkä huolet vanhempia mietityttävät useimmin.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/fi/blog/what-is-aac/"
+    },
+    {
+      "slug": "honest-project-overview",
+      "title": "Sono rehellisesti: missä projekti on nyt",
+      "description": "Mikä Sono on, mikä toimii tänään, mikä ei vielä toimi ja miten voit auttaa vapaaehtoisena.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/fi/blog/honest-project-overview/"
+    }
+  ]
+}

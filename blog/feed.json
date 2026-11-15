@@ -1,0 +1,358 @@
+{
+  "language": "en",
+  "updated": "2026-11-15",
+  "posts": [
+    {
+      "slug": "paper-first",
+      "title": "Paper first: the no-battery board that goes everywhere",
+      "description": "A printed board is instant, robust and easy to personalise. How to make a paper copy that matches the app and keeps communication available when technology cannot.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/paper-first/"
+    },
+    {
+      "slug": "choosing-a-voice",
+      "title": "Finding a voice that fits: accent, age and personality",
+      "description": "The voice a communication app uses is part of someone's identity. How to choose, test and personalise a voice without defaulting to the wrong one.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/choosing-a-voice/"
+    },
+    {
+      "slug": "photos-or-symbols",
+      "title": "Photos or symbols? Choosing what the person actually recognises",
+      "description": "A clear photo can work better than a neat icon, or the other way round. How to choose images by recognition rather than tidiness, and keep the board consistent.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/photos-or-symbols/"
+    },
+    {
+      "slug": "total-communication",
+      "title": "Signs, gestures and symbols: a total communication approach",
+      "description": "AAC is not one device or one method. Speech, signs, gestures, pointing and symbols can work together, and accepting every route makes communication easier.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/total-communication/"
+    },
+    {
+      "slug": "modelling-vs-prompting",
+      "title": "Modelling vs prompting: how to help without taking over",
+      "description": "Modelling shows someone how a board works. Prompting asks them to perform. The difference matters, and a few small habits keep help from becoming a test.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/modelling-vs-prompting/"
+    },
+    {
+      "slug": "transitions-and-change",
+      "title": "Transitions: helping change feel manageable with AAC",
+      "description": "Stopping a favourite activity or moving to a new place can be the hardest part of the day. Symbols, warnings and choices can make transitions easier.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/transitions-and-change/"
+    },
+    {
+      "slug": "birthdays-and-celebrations",
+      "title": "Birthdays and celebrations: AAC in the loud, happy moments",
+      "description": "Parties are busy, noisy and full of relatives. A little planning helps the person using AAC join in, be understood and step out when it gets too much.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/birthdays-and-celebrations/"
+    },
+    {
+      "slug": "travel-with-aac",
+      "title": "Travel and holidays: AAC on flights, trains and unfamiliar places",
+      "description": "A communication system can travel, but it needs a little planning. What to pack, what to prepare and how to keep a voice available far from home.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/travel-with-aac/"
+    },
+    {
+      "slug": "aac-and-literacy",
+      "title": "Reading, writing and AAC: symbols are not the enemy of literacy",
+      "description": "A communication board and a love of reading can grow together. Practical ways to include letters, sounds and writing without turning every moment into a lesson.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/aac-and-literacy/"
+    },
+    {
+      "slug": "pain-and-illness",
+      "title": "Pain and illness: helping someone describe what hurts",
+      "description": "When someone cannot easily say where it hurts, behaviour is only part of the picture. How to prepare pain words, ask clearly and advocate in appointments.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/pain-and-illness/"
+    },
+    {
+      "slug": "calm-down-plans",
+      "title": "Calm-down plans: AAC for the moments after a meltdown",
+      "description": "When someone is overwhelmed, more words usually make things harder. How to plan a calm-down routine, keep communication available and repair afterwards.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/calm-down-plans/"
+    },
+    {
+      "slug": "friendships-and-playdates",
+      "title": "Friendships and playdates: AAC with children outside the family",
+      "description": "Friends usually adapt quickly when they know what to do. Simple preparations help a child with AAC join in, be understood and stay in charge of their own voice.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/friendships-and-playdates/"
+    },
+    {
+      "slug": "teasing-and-self-advocacy",
+      "title": "Teasing, bullying and self-advocacy: words that help at school",
+      "description": "A communication device can attract unwanted attention. How to prepare clear words, involve the school and support a child or teenager to speak up for themselves.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/teasing-and-self-advocacy/"
+    },
+    {
+      "slug": "teenagers-and-aac",
+      "title": "Teenagers and AAC: privacy, independence and a voice of their own",
+      "description": "Adolescence changes everything, including communication. How to involve a teenager in choosing their vocabulary, voice and boundaries without hovering.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/teenagers-and-aac/"
+    },
+    {
+      "slug": "dating-and-relationships",
+      "title": "Dating and relationships with AAC: love, consent and boundaries",
+      "description": "Adults and teenagers who use AAC have the same right to relationships as anyone else. How to make room for dating, privacy and clear consent.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/dating-and-relationships/"
+    },
+    {
+      "slug": "aac-at-work",
+      "title": "AAC at work: meetings, interviews and everyday colleagues",
+      "description": "A communication system belongs in the workplace too. Practical ways to prepare for meetings, ask for adjustments and keep a professional voice.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-at-work/"
+    },
+    {
+      "slug": "co-designing-the-board",
+      "title": "Build it together: co-designing the board with the person who uses it",
+      "description": "A board works better when the person has a say in it. Practical ways to involve children, teenagers and adults in choosing words, images and layout.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/co-designing-the-board/"
+    },
+    {
+      "slug": "when-the-device-is-not-used",
+      "title": "When the device isn't being used: a troubleshooting checklist",
+      "description": "A communication app that sits unused is not a failed experiment. Work through access, motivation, vocabulary and partner habits before changing the whole system.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/when-the-device-is-not-used/"
+    },
+    {
+      "slug": "device-care",
+      "title": "Charging, cleaning and backups: looking after a communication device",
+      "description": "A few simple habits keep a device working, protect custom words and photos, and avoid the panic of a flat battery at the wrong moment.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/device-care/"
+    },
+    {
+      "slug": "waiting-for-support",
+      "title": "Waiting for an assessment or funding: what you can do meanwhile",
+      "description": "Waiting lists can be long, and starting AAC should not depend on a perfect plan. Practical steps to take while you wait for professional or financial support.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/waiting-for-support/"
+    },
+    {
+      "slug": "the-ten-second-pause",
+      "title": "The ten-second pause: the communication skill most of us skip",
+      "description": "Waiting feels awkward, but a quiet pause often does more for communication than another question. What to try, and how it fits with modelling.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/the-ten-second-pause/"
+    },
+    {
+      "slug": "aac-at-school",
+      "title": "Starting school with AAC: a handover that actually helps",
+      "description": "A one-page profile, a short demonstration and a few agreed words can make the difference between a device that is used at school and one that stays in the bag.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/aac-at-school/"
+    },
+    {
+      "slug": "aac-consent-and-control",
+      "title": "No, stop, help: teaching control and consent with AAC",
+      "description": "A communication system is not only for asking. The words that let someone refuse, change their mind and ask for help matter just as much.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/aac-consent-and-control/"
+    },
+    {
+      "slug": "aac-beyond-requests",
+      "title": "More than “more”: comments, feelings and jokes with AAC",
+      "description": "Requesting is only one reason to communicate. Comments, feelings, protests and silly moments are what make a voice feel like a person.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-beyond-requests/"
+    },
+    {
+      "slug": "core-words",
+      "title": "Small words, big difference: why core words matter",
+      "description": "Words like I, want, stop, go and help do more work than a hundred nouns. How to choose and model core vocabulary without turning it into a lesson.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/core-words/"
+    },
+    {
+      "slug": "keep-aac-within-reach",
+      "title": "Keep it within reach: access is part of communication",
+      "description": "A communication device only works when it is there. Practical ways to keep it charged, close and available without turning it into a reward.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/keep-aac-within-reach/"
+    },
+    {
+      "slug": "when-taps-seem-random",
+      "title": "When every tap seems random: respond first, correct later",
+      "description": "Exploring a symbol board can look like chaos. What the tapping might mean, and how to respond without turning communication into a test.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/when-taps-seem-random/"
+    },
+    {
+      "slug": "siblings-and-aac",
+      "title": "Siblings and AAC: making room for everyone's voice",
+      "description": "Brothers and sisters are often the best communication partners, and sometimes the most overlooked. How to include them without making them carers.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/siblings-and-aac/"
+    },
+    {
+      "slug": "explaining-aac-to-family",
+      "title": "Explaining AAC to grandparents and relatives without a lecture",
+      "description": "A one-sentence explanation, three words to model and permission to get it wrong can turn a well-meaning relative into a confident communication partner.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/explaining-aac-to-family/"
+    },
+    {
+      "slug": "aac-through-play",
+      "title": "Play, pause and sabotage: low-pressure ways to model",
+      "description": "Games create reasons to communicate without a worksheet. How to use people games, waiting and gentle sabotage to make symbols feel useful.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-through-play/"
+    },
+    {
+      "slug": "aac-at-mealtimes",
+      "title": "Mealtimes: the easiest place to start with AAC",
+      "description": "Food brings choices, repetition and a natural reason to communicate. How to use breakfast, snacks and dinner without turning the table into a lesson.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-at-mealtimes/"
+    },
+    {
+      "slug": "aac-books-and-songs",
+      "title": "Books, songs and repetition: building words through favourites",
+      "description": "A familiar story or song gives the same words again and again. Simple ways to model symbols during reading and music without turning either into a test.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-books-and-songs/"
+    },
+    {
+      "slug": "aac-out-and-about",
+      "title": "Out and about: parks, shops and appointments with AAC",
+      "description": "A little planning makes communication easier away from home, from the playground to the GP surgery. What to pack, what to model and what to prepare.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-out-and-about/"
+    },
+    {
+      "slug": "choosing-vocabulary",
+      "title": "Choosing words that sound like the person",
+      "description": "A board should fit a real life, not a generic list. How to choose vocabulary around interests, age, culture and the words a person actually needs.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/choosing-vocabulary/"
+    },
+    {
+      "slug": "when-progress-feels-slow",
+      "title": "When progress feels slow: what to notice besides words",
+      "description": "AAC progress is often quiet. Signs to look for, how to keep simple notes, and when to ask for a review instead of blaming yourself.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/blog/when-progress-feels-slow/"
+    },
+    {
+      "slug": "working-with-a-speech-therapist",
+      "title": "Working with a speech and language therapist on AAC",
+      "description": "What to bring, what to ask and how to make appointments useful when you are introducing a communication system at home.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/working-with-a-speech-therapist/"
+    },
+    {
+      "slug": "aac-in-multilingual-families",
+      "title": "AAC in multilingual families: keep the home language close",
+      "description": "A communication board should not flatten a family into one language. How to make room for home language, names, food and the words that feel like home.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-in-multilingual-families/"
+    },
+    {
+      "slug": "aac-for-adults",
+      "title": "AAC is not only for children: adults after stroke and with changing needs",
+      "description": "Adults use AAC too, sometimes after a stroke, an injury or a progressive condition. Respect, fatigue and a voice that fits an adult life matter.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-for-adults/"
+    },
+    {
+      "slug": "aac-privacy-and-dignity",
+      "title": "Privacy and dignity: AAC in personal care and public places",
+      "description": "A communication device holds private words, photos and messages. How to protect dignity, ask before sharing and keep the person in control.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-privacy-and-dignity/"
+    },
+    {
+      "slug": "aac-emergency-communication",
+      "title": "Emergency communication: plan beyond the app",
+      "description": "A communication app can fail, run out of battery or be out of reach. A simple backup plan helps someone ask for help when it matters most.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/blog/aac-emergency-communication/"
+    },
+    {
+      "slug": "everyday-routines",
+      "title": "Everyday routines: small moments to communicate",
+      "description": "Mealtimes, getting dressed, play and bedtime bring up the same words again and again. Ideas for using those moments with a symbol board.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/blog/everyday-routines/"
+    },
+    {
+      "slug": "modelling-at-home",
+      "title": "Modelling: showing, not testing",
+      "description": "How families use their child's symbol board themselves while they talk, and simple ways to fit it into an ordinary day.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/blog/modelling-at-home/"
+    },
+    {
+      "slug": "what-is-aac",
+      "title": "What is augmentative and alternative communication (AAC)? A plain-language introduction for parents",
+      "description": "What augmentative and alternative communication means, the forms it takes, and the worries parents raise most often.",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "url": "https://sono.click/blog/what-is-aac/"
+    },
+    {
+      "slug": "honest-project-overview",
+      "title": "Sono, honestly: where the project stands",
+      "description": "What Sono is, what works today, what doesn't work yet, and how you can help as a volunteer.",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "url": "https://sono.click/blog/honest-project-overview/"
+    }
+  ]
+}

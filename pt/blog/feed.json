@@ -1,0 +1,358 @@
+{
+  "language": "pt",
+  "updated": "2026-11-15",
+  "posts": [
+    {
+      "slug": "paper-first",
+      "title": "Primeiro o papel: a placa sem bateria que vai a todo lugar",
+      "description": "Uma placa impressa é instantânea, robusta e fácil de personalizar. Como fazer uma cópia em papel que corresponda ao aplicativo e mantenha a comunicação disponível quando a tecnologia não consegue.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/paper-first/"
+    },
+    {
+      "slug": "choosing-a-voice",
+      "title": "Encontrar uma voz adequada: sotaque, idade e personalidade",
+      "description": "A voz que um aplicativo de comunicação usa faz parte da identidade de alguém. Como escolher, testar e personalizar uma voz sem usar a voz errada.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/choosing-a-voice/"
+    },
+    {
+      "slug": "photos-or-symbols",
+      "title": "Fotos ou símbolos? Escolher o que a pessoa realmente reconhece",
+      "description": "Uma foto nítida pode funcionar melhor do que um ícone elegante, ou vice-versa. Como escolher imagens por reconhecimento, em vez de organização, e manter o quadro consistente.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/photos-or-symbols/"
+    },
+    {
+      "slug": "total-communication",
+      "title": "Sinais, gestos e símbolos: uma abordagem de comunicação total",
+      "description": "AAC não é um dispositivo ou um método. A fala, os sinais, os gestos, os gestos e os símbolos podem funcionar juntos, e aceitar cada rota facilita a comunicação.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/total-communication/"
+    },
+    {
+      "slug": "modelling-vs-prompting",
+      "title": "Modelagem versus solicitação: como ajudar sem assumir o controle",
+      "description": "A modelagem mostra a alguém como funciona uma placa. A solicitação pede que eles executem. A diferença é importante, e alguns pequenos hábitos evitam que a ajuda se torne um teste.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/modelling-vs-prompting/"
+    },
+    {
+      "slug": "transitions-and-change",
+      "title": "Transições: ajudando a mudança a ser gerenciável com AAC",
+      "description": "Interromper uma atividade favorita ou mudar para um novo lugar pode ser a parte mais difícil do dia. Símbolos, avisos e escolhas podem facilitar as transições.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/transitions-and-change/"
+    },
+    {
+      "slug": "birthdays-and-celebrations",
+      "title": "Aniversários e comemorações: AAC nos momentos barulhentos e felizes",
+      "description": "As festas são movimentadas, barulhentas e cheias de parentes. Um pouco de planejamento ajuda a pessoa que usa CSA a aderir, ser compreendida e sair quando for demais.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/birthdays-and-celebrations/"
+    },
+    {
+      "slug": "travel-with-aac",
+      "title": "Viagens e férias: AAC em voos, trens e lugares desconhecidos",
+      "description": "Um sistema de comunicação pode viajar, mas precisa de um pouco de planejamento. O que levar na mala, o que preparar e como manter a voz disponível longe de casa.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/travel-with-aac/"
+    },
+    {
+      "slug": "aac-and-literacy",
+      "title": "Leitura, escrita e CSA: os símbolos não são inimigos da alfabetização",
+      "description": "Um quadro de comunicação e o amor pela leitura podem crescer juntos. Maneiras práticas de incluir letras, sons e escrita sem transformar cada momento em uma aula.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/aac-and-literacy/"
+    },
+    {
+      "slug": "pain-and-illness",
+      "title": "Dor e doença: ajudar alguém a descrever o que dói",
+      "description": "Quando alguém não consegue dizer facilmente onde dói, o comportamento é apenas parte do quadro. Como preparar palavras dolorosas, perguntar com clareza e defender nas consultas.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/pain-and-illness/"
+    },
+    {
+      "slug": "calm-down-plans",
+      "title": "Planos de calma: AAC para os momentos após um colapso",
+      "description": "Quando alguém está sobrecarregado, mais palavras geralmente tornam as coisas mais difíceis. Como planejar uma rotina de calma, manter a comunicação disponível e reparar depois.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/calm-down-plans/"
+    },
+    {
+      "slug": "friendships-and-playdates",
+      "title": "Amizades e encontros: AAC com crianças fora da família",
+      "description": "Os amigos geralmente se adaptam rapidamente quando sabem o que fazer. Preparações simples ajudam uma criança com AAC a participar, ser compreendida e manter o controle de sua própria voz.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/friendships-and-playdates/"
+    },
+    {
+      "slug": "teasing-and-self-advocacy",
+      "title": "Provocações, bullying e autodefesa: palavras que ajudam na escola",
+      "description": "Um dispositivo de comunicação pode atrair atenção indesejada. Como preparar palavras claras, envolver a escola e apoiar uma criança ou adolescente a falar por si.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/teasing-and-self-advocacy/"
+    },
+    {
+      "slug": "teenagers-and-aac",
+      "title": "Adolescentes e AAC: privacidade, independência e voz própria",
+      "description": "A adolescência muda tudo, inclusive a comunicação. Como envolver um adolescente na escolha de seu vocabulário, voz e limites sem hesitação.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/teenagers-and-aac/"
+    },
+    {
+      "slug": "dating-and-relationships",
+      "title": "Namoro e relacionamentos com AAC: amor, consentimento e limites",
+      "description": "Adultos e adolescentes que usam CSA têm o mesmo direito aos relacionamentos que qualquer outra pessoa. Como abrir espaço para namoro, privacidade e consentimento claro.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/dating-and-relationships/"
+    },
+    {
+      "slug": "aac-at-work",
+      "title": "AAC no trabalho: reuniões, entrevistas e colegas do cotidiano",
+      "description": "Um sistema de comunicação também pertence ao local de trabalho. Maneiras práticas de se preparar para reuniões, solicitar ajustes e manter uma voz profissional.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/aac-at-work/"
+    },
+    {
+      "slug": "co-designing-the-board",
+      "title": "Construa juntos: co-projetando o quadro com a pessoa que o utiliza",
+      "description": "Um conselho funciona melhor quando a pessoa tem uma palavra a dizer. Maneiras práticas de envolver crianças, adolescentes e adultos na escolha de palavras, imagens e layout.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/co-designing-the-board/"
+    },
+    {
+      "slug": "when-the-device-is-not-used",
+      "title": "Quando o dispositivo não está sendo usado: uma lista de verificação para solução de problemas",
+      "description": "Um aplicativo de comunicação que não é utilizado não é um experimento fracassado. Trabalhe o acesso, a motivação, o vocabulário e os hábitos do parceiro antes de mudar todo o sistema.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/when-the-device-is-not-used/"
+    },
+    {
+      "slug": "device-care",
+      "title": "Carregamento, limpeza e backups: cuidando de um dispositivo de comunicação",
+      "description": "Alguns hábitos simples mantêm um dispositivo funcionando, protegem palavras e fotos personalizadas e evitam o pânico de uma bateria descarregada no momento errado.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/device-care/"
+    },
+    {
+      "slug": "waiting-for-support",
+      "title": "Aguardando uma avaliação ou financiamento: o que você pode fazer enquanto isso",
+      "description": "As listas de espera podem ser longas e iniciar o AAC não deve depender de um plano perfeito. Passos práticos a serem seguidos enquanto você espera por apoio profissional ou financeiro.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/waiting-for-support/"
+    },
+    {
+      "slug": "the-ten-second-pause",
+      "title": "A pausa de dez segundos: a habilidade de comunicação que a maioria de nós ignora",
+      "description": "Esperar parece estranho, mas uma pausa silenciosa geralmente contribui mais para a comunicação do que outra pergunta. O que tentar e como isso se encaixa na modelagem.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/the-ten-second-pause/"
+    },
+    {
+      "slug": "aac-at-school",
+      "title": "Começando a escola com AAC: uma transferência que realmente ajuda",
+      "description": "Um perfil de uma página, uma breve demonstração e algumas palavras acordadas podem fazer a diferença entre um aparelho que se usa na escola e outro que fica na bolsa.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/aac-at-school/"
+    },
+    {
+      "slug": "aac-consent-and-control",
+      "title": "Não, pare, ajude: ensinando controle e consentimento com AAC",
+      "description": "Um sistema de comunicação não serve apenas para perguntar. As palavras que permitem que alguém recuse, mude de ideia e peça ajuda são igualmente importantes.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/aac-consent-and-control/"
+    },
+    {
+      "slug": "aac-beyond-requests",
+      "title": "Mais que “mais”: comentários, sentimentos e piadas com a AAC",
+      "description": "Solicitar é apenas um motivo para se comunicar. Comentários, sentimentos, protestos e momentos bobos são o que fazem uma voz parecer uma pessoa.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/aac-beyond-requests/"
+    },
+    {
+      "slug": "core-words",
+      "title": "Palavras pequenas, grandes diferenças: por que as palavras essenciais são importantes",
+      "description": "Palavras como eu, quero, pare, vá e ajude a fazer mais trabalho do que cem substantivos. Como escolher e modelar o vocabulário básico sem transformá-lo em uma lição.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/core-words/"
+    },
+    {
+      "slug": "keep-aac-within-reach",
+      "title": "Mantenha-o ao seu alcance: o acesso faz parte da comunicação",
+      "description": "Um dispositivo de comunicação só funciona quando está presente. Maneiras práticas de mantê-lo carregado, próximo e disponível sem transformá-lo em recompensa.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/keep-aac-within-reach/"
+    },
+    {
+      "slug": "when-taps-seem-random",
+      "title": "Quando cada toque parece aleatório: responda primeiro, corrija depois",
+      "description": "Explorar um quadro de símbolos pode parecer um caos. O que as escutas podem significar e como responder sem transformar a comunicação num teste.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/when-taps-seem-random/"
+    },
+    {
+      "slug": "siblings-and-aac",
+      "title": "Irmãos e AAC: abrindo espaço para a voz de todos",
+      "description": "Irmãos e irmãs são muitas vezes os melhores parceiros de comunicação e, por vezes, os mais negligenciados. Como incluí-los sem torná-los cuidadores.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/siblings-and-aac/"
+    },
+    {
+      "slug": "explaining-aac-to-family",
+      "title": "Explicando AAC para avós e parentes sem palestra",
+      "description": "Uma explicação de uma frase, três palavras para modelar e permissão para errar podem transformar um parente bem-intencionado em um parceiro de comunicação confiante.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/explaining-aac-to-family/"
+    },
+    {
+      "slug": "aac-through-play",
+      "title": "Reproduzir, pausar e sabotar: maneiras de modelar com baixa pressão",
+      "description": "Os jogos criam motivos para se comunicar sem planilha. Como usar jogos de pessoas, espera e sabotagem suave para fazer com que os símbolos pareçam úteis.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/aac-through-play/"
+    },
+    {
+      "slug": "aac-at-mealtimes",
+      "title": "Hora das refeições: o lugar mais fácil para começar com AAC",
+      "description": "A comida traz escolhas, repetição e uma razão natural para se comunicar. Como aproveitar o café da manhã, o lanche e o jantar sem transformar a mesa em uma aula.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/aac-at-mealtimes/"
+    },
+    {
+      "slug": "aac-books-and-songs",
+      "title": "Livros, músicas e repetição: construindo palavras por meio de favoritos",
+      "description": "Uma história ou música familiar reproduz as mesmas palavras repetidas vezes. Maneiras simples de modelar símbolos durante a leitura e a música sem transformar nenhum deles em um teste.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/aac-books-and-songs/"
+    },
+    {
+      "slug": "aac-out-and-about",
+      "title": "Passeios: parques, lojas e compromissos com AAC",
+      "description": "Um pouco de planejamento facilita a comunicação fora de casa, do playground ao consultório do clínico geral. O que levar na mala, o que modelar e o que preparar.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/aac-out-and-about/"
+    },
+    {
+      "slug": "choosing-vocabulary",
+      "title": "Escolher palavras que soem como a pessoa",
+      "description": "Um quadro deve caber na vida real, não em uma lista genérica. Como escolher o vocabulário de acordo com interesses, idade, cultura e as palavras que uma pessoa realmente precisa.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/choosing-vocabulary/"
+    },
+    {
+      "slug": "when-progress-feels-slow",
+      "title": "Quando o progresso parece lento: o que observar além das palavras",
+      "description": "O progresso da AAC é muitas vezes silencioso. Sinais a serem observados, como fazer anotações simples e quando pedir uma avaliação em vez de se culpar.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/when-progress-feels-slow/"
+    },
+    {
+      "slug": "working-with-a-speech-therapist",
+      "title": "Trabalhando com um fonoaudiólogo na AAC",
+      "description": "O que levar, o que perguntar e como tornar os agendamentos úteis ao introduzir um sistema de comunicação em casa.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/working-with-a-speech-therapist/"
+    },
+    {
+      "slug": "aac-in-multilingual-families",
+      "title": "AAC em famílias multilíngues: mantenha a língua materna próxima",
+      "description": "Um quadro de comunicação não deve comprimir uma família numa só língua. Como abrir espaço para a língua materna, os nomes, a comida e as palavras que nos fazem sentir em casa.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/aac-in-multilingual-families/"
+    },
+    {
+      "slug": "aac-for-adults",
+      "title": "A AAC não é apenas para crianças: adultos após acidente vascular cerebral e com necessidades em mudança",
+      "description": "Os adultos também usam AAC, às vezes após um acidente vascular cerebral, uma lesão ou uma condição progressiva. Respeito, cansaço e uma voz adequada à vida adulta importam.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/aac-for-adults/"
+    },
+    {
+      "slug": "aac-privacy-and-dignity",
+      "title": "Privacidade e dignidade: CSA em cuidados pessoais e locais públicos",
+      "description": "Um dispositivo de comunicação contém palavras, fotos e mensagens privadas. Como proteger a dignidade, pergunte antes de compartilhar e mantenha a pessoa no controle.",
+      "date": "2026-11-15",
+      "minutes": 3,
+      "url": "https://sono.click/pt/blog/aac-privacy-and-dignity/"
+    },
+    {
+      "slug": "aac-emergency-communication",
+      "title": "Comunicação de emergência: planeje além do aplicativo",
+      "description": "Um aplicativo de comunicação pode falhar, ficar sem bateria ou fora de alcance. Um plano de backup simples ajuda alguém a pedir ajuda quando é mais importante.",
+      "date": "2026-11-15",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/aac-emergency-communication/"
+    },
+    {
+      "slug": "everyday-routines",
+      "title": "Rotinas cotidianas: pequenos momentos para se comunicar",
+      "description": "A hora das refeições, de se vestir, de brincar e de dormir trazem à tona as mesmas palavras repetidas vezes. Ideias para aproveitar esses momentos com um quadro de símbolos.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/everyday-routines/"
+    },
+    {
+      "slug": "modelling-at-home",
+      "title": "Modelagem: mostrar, não testar",
+      "description": "Como as famílias usam o quadro de símbolos de seus filhos enquanto falam e maneiras simples de encaixá-lo em um dia comum.",
+      "date": "2026-11-08",
+      "minutes": 4,
+      "url": "https://sono.click/pt/blog/modelling-at-home/"
+    },
+    {
+      "slug": "what-is-aac",
+      "title": "O que é comunicação aumentativa e alternativa (CAA)? Uma introdução em linguagem simples para os pais",
+      "description": "O que significa comunicação aumentativa e alternativa, as formas que assume e as preocupações que os pais levantam com mais frequência.",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "url": "https://sono.click/pt/blog/what-is-aac/"
+    },
+    {
+      "slug": "honest-project-overview",
+      "title": "Sono, honestamente: onde está o projeto",
+      "description": "O que é Sono, o que funciona hoje, o que ainda não funciona e como você pode ajudar como voluntário.",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "url": "https://sono.click/pt/blog/honest-project-overview/"
+    }
+  ]
+}
